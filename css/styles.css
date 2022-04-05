@@ -1,0 +1,50 @@
+img {
+  height: 200px;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.contact-page {
+  text-align: center;
+}
+
+.twitter {
+  height: 50px;
+  padding: 20px;
+}
+
+.facebook {
+  height: 50px;
+  padding: 20px;
+}
+
+.linkedin {
+  height: 50px;
+  padding: 20px;
+}
+
+.social {
+  text-align: center;
+}
+
+.social-text {
+  text-align: center;
+}
+
+.twitter-text {
+  padding: 20px;
+}
+
+.facebook-text {
+  padding: 20px;
+}
+
+.linkedin-text {
+  padding: 20px;
+}
+
+.links-text {
+  text-align: center;
+}
